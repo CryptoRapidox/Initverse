@@ -1,5 +1,5 @@
 
-## InitChain Windows Kurulum :
+## InitChain Windows Kurulum  :
 
 #### Relase Kısmından Windows olanın üstüne tıklayıp indirelim : 
 
